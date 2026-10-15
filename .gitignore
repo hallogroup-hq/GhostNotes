@@ -1,0 +1,14 @@
+# macOS build artifacts
+.DS_Store
+.build/
+*.app
+.swiftpm/
+
+# Python & Windows build artifacts
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+*.spec
