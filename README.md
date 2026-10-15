@@ -6,6 +6,19 @@ GhostNotes is a lightweight, floating teleprompter overlay designed for speakers
 
 ---
 
+## Download App (Langsung Pakai / Executable)
+
+Tidak perlu membuka terminal atau menjalankan script, download file executable berikut:
+
+| Platform | File Download | Cara Menjalankan |
+| :--- | :--- | :--- |
+| **Windows 10 & 11** | [**GhostNotes-Windows.exe**](https://github.com/hallogroup-hq/GhostNotes/releases/latest/download/GhostNotes-Windows.exe) | Langsung klik dua kali file `.exe` untuk membuka |
+| **macOS (M1/M2/M3 & Intel)** | [**GhostNotes-macOS.zip**](https://github.com/hallogroup-hq/GhostNotes/releases/latest/download/GhostNotes-macOS.zip) | Ekstrak zip, lalu klik dua kali `GhostNotes.app` |
+
+Semua versi rilisan juga dapat diakses di menu **[GitHub Releases](https://github.com/hallogroup-hq/GhostNotes/releases)**.
+
+---
+
 ## Key Features
 
 1. **Anti-Share Screen Protection**:
